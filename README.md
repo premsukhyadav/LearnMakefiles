@@ -1,4 +1,4 @@
-# What is tutorial is about
+# What this tutorial is about
 
 This tutorial will help you to educate you with makefile. The approach the we
 are going to use to learn it by doing it. we will build take small steps at a
