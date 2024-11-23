@@ -18,8 +18,8 @@ executable or other desired outputs.
 		The result is the final executable or program.
 		
 # Structure of a Makefile Rule
-target: dependencies
-	command 
+	target: dependencies
+		command 
 	
 	#target: 
 	The file to be created (e.g., an executable or an object file).
